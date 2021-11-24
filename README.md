@@ -48,6 +48,7 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 2. App Inventor (Access <a href="http://ai2.appinventor.mit.edu/">App Inventor</a>)
 3. Arduino (Access <a href="https://create.arduino.cc">Arduino IDE</a>)
 4. Google Colab (Access <a href="https://colab.research.google.com">Google Colab</a>)
+5. Git (Download <a href="https://git-scm.com">Git Software</a>)
 
 # Contact
 Reach me on LinkedIn (<a href="https://www.linkedin.com/in/madhupiot/">Maddy</a>)
