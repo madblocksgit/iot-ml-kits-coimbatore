@@ -32,6 +32,16 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 2. Deployment on Heroku Platform
 3. Launching the App on Mobile and Web
 
+ # Machine Learning Life Cycle
+ 
+ 1. Stage - 1: Data Gathering
+ 2. Stage - 2: Data Preparing
+ 3. Stage - 3: Data Cleaning
+ 4. Stage - 4: Data Analysis
+ 5. Stage - 5: Model Training
+ 6. Stage - 6: Model Testing
+ 7. Stage - 7: Model Deployment
+
 # Softwares
 
 1. Heroku (Access <a href="https://heroku.com">Heroku Platform</a>)
